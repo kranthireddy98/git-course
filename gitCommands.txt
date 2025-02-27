@@ -10,3 +10,5 @@
 
 --> git add <file> -- adds file to staging Area
 
+--> git commit -m "first commit" -> SHA  -- ad63a83
+
