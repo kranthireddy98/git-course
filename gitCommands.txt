@@ -1,0 +1,12 @@
+--> git --version --> git version 2.41.0.windows.1
+--> git config
+--> git --global --list --> shows user name and email
+
+--> git init --> creates empty repo --> Initialized empty Git repository in E:/Learning/Git/.git/
+
+--> git status
+
+--> git init -b main --> On branch main
+
+--> git add <file> -- adds file to staging Area
+
