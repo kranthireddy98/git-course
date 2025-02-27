@@ -9,9 +9,19 @@
 --> git init -b main --> On branch main
 
 --> git add <file> -- adds file to staging Area
-
+--> git add .
 --> git commit -m "first commit" -> SHA  -- ad63a83
 
 --> git commit -a -m "meesage" --> "direct commit without staging"
 
 --> git diff
+
+--> git diff --staged
+
+--> git rm --cached creds.txt -- delete from git
+
+-->ssh-keygen-o
+
+//Add Tag --> leigt and Annotated tags
+
+
