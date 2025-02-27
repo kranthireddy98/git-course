@@ -12,4 +12,6 @@
 
 --> git commit -m "first commit" -> SHA  -- ad63a83
 
---> git commit -a -m "meesage"
+--> git commit -a -m "meesage" --> "direct commit without staging"
+
+--> git diff
