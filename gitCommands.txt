@@ -12,3 +12,4 @@
 
 --> git commit -m "first commit" -> SHA  -- ad63a83
 
+--> git commit -a -m "meesage"
