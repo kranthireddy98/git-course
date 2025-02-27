@@ -24,4 +24,14 @@
 
 //Add Tag --> leigt and Annotated tags
 
+git tag -a v1.0 -m "1st release"
 
+git push origin v1.0
+
+
+--> git clone url
+--> git show v1.0
+
+
+--> git checkout -b feature1 -> new branch
+--> git branch -->  list of branch
