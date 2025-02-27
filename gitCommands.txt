@@ -33,5 +33,9 @@ git push origin v1.0
 --> git show v1.0
 
 
---> git checkout -b feature1 -> new branch
+--> git checkout -b feature1 -> git checkout -b feature1
+ --> new branch
 --> git branch -->  list of branch
+
+
+-->  git branch -d feture2 -- delete branch
