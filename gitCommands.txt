@@ -24,7 +24,11 @@
 
 //Add Tag --> leigt and Annotated tags
 
+
+//conflicts
+
 git tag -a v1.0 -m "1st release"
+
 
 git push origin v1.0
 
